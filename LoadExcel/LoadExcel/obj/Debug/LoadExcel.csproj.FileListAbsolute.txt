@@ -1,0 +1,8 @@
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\bin\Debug\LoadExcel.exe.config
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\bin\Debug\LoadExcel.exe
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\bin\Debug\LoadExcel.pdb
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\obj\Debug\LoadExcel.csproj.AssemblyReference.cache
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\obj\Debug\LoadExcel.csproj.ResolveComReference.cache
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\obj\Debug\LoadExcel.csproj.CoreCompileInputs.cache
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\obj\Debug\LoadExcel.exe
+C:\Users\zzang\source\repos\LoadExcel\LoadExcel\obj\Debug\LoadExcel.pdb
